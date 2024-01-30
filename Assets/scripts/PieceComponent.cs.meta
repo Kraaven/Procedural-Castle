@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8fe8bd7cb1bd088408cd437c5957da8f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CorridorH: {fileID: 6458629882176542171, guid: 861a1edc70935ad42bce00c2fb69e4fa,
+      type: 3}
+  - CorridorV: {fileID: 3953737095722154259, guid: aa74a24212975984684d4b87b8c78fb3,
+      type: 3}
+  - CorridorWH: {fileID: 6674368237550285083, guid: 3a17b100025423a4b9047b6b77ac130d,
+      type: 3}
+  - CorridorWV: {fileID: 4694576521696076941, guid: da0a44f2ea162b745b1010a245b6cfb5,
+      type: 3}
+  - LD: {fileID: 5847406475041648479, guid: eaa2cf457534d1349b76a7a0ce1909a8, type: 3}
+  - DR: {fileID: 5172233994943766735, guid: 94a632e3682cb1b46ab0bd5b87b1705f, type: 3}
+  - RU: {fileID: 7079227662618745238, guid: f9ccef1ba83b44b48b7fbb391a912ac1, type: 3}
+  - UL: {fileID: 5138405182297621306, guid: 4cc4277ad3d958a48a4dfe8661cbd4f2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
